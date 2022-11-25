@@ -1,0 +1,48 @@
+.Footer-Section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #161619;
+    height: 64px;
+    width: 317px;
+    left: 116px;
+    top: 760px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.Github-Icon{
+    padding-left: 24px;
+    height: 25px;
+    width: 25px;
+    left: 336px;
+    top: 779px;
+    border-radius: 0px;
+}
+
+.Twitter-Icon{
+
+    height: 25px;
+    width: 25px;
+    left: 189px;
+    top: 779px;
+    border-radius: 0px;
+    
+}
+
+.Instagram-Icon{
+    padding-left: 24px;
+    height: 25px;
+    width: 25px;
+    left: 287px;
+    top: 779px;
+    border-radius: 0px;    
+}
+
+.Facebook-Icon{
+    padding-left: 24px;
+    height: 25px;
+    width: 25px;
+    left: 238px;
+    top: 779px;
+    border-radius: 0px;    
+}

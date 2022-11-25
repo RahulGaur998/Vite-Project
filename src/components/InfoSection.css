@@ -1,0 +1,121 @@
+.Info-Section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Image-Section{
+    object-position: -200px -150px;
+    width: 317px;
+    height: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    object-fit: none;
+}
+
+.Info-Name{
+    height: 25px;
+    width: 178px;
+    Font-family: Inter;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    Font-weight: 700;
+    Font-size: 25px;
+    margin-top: 21px;
+}
+
+.Info-Role{
+    font-family: Inter;
+    width: 178px;
+    height: 14px;
+    font-weight: 400;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    color: #F3BF99;
+    margin: -30px;
+}
+
+.Info-Email{
+    font-family: Inter;
+    height: 16px;
+    width: 228px;
+    left: 161px;
+    margin-top: 38px;
+    display: flex;
+    justify-content: center;
+    color: #F5F5F5;
+    font-size: 10px;
+    font-weight: 400;
+}
+.Info-Buttons{
+    margin-top: 15px;
+}
+.Info-Email-Button{
+    height: 34px;
+    width: 115px;
+    left: 151px;
+    top: 468px;
+    border-radius: 6px;
+    padding: 9px 13px 9px 11px;
+    border: none;
+    margin-right: 17px;
+}
+
+.Email-Button-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Linkedin-Button-Container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.Info-Linkedin-Button{
+    height: 34px;
+    width: 115px;
+    left: 283px;
+    top: 468px;
+    border-radius: 6px;
+    padding: 9px 13px 9px 11px;
+    background: #5093E2;
+    border: none;
+    color: #FFFFFF;
+    
+}
+.Info-Email-Button-Text{
+    font-family: Inter;
+    font-weight: 500;
+    height: 16px;
+    width: 36px;
+    left: 50.5px;
+    top: 9px;
+}
+.Info-Linkedin-Button-Text{
+    font-family: Inter;
+    font-weight: 500;
+    height: 16px;
+    width: 57px;
+    left: 40px;
+    top: 9px;
+}
+
+.Linkedin-Icon{
+    height: 19px;
+    width: 19px;
+    left: 16px;
+    top: 9px;
+    border-radius: 0px;
+}
+.Email-Icon{
+    height: 19px;
+    width: 19px;
+    left: 26.5px;
+    top: 9px;
+    border-radius: 0px;
+
+}
